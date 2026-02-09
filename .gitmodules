@@ -1,0 +1,9 @@
+[submodule "modules/sfem"]
+	path = modules/sfem
+	url = https://github.com/zulianp/sfem.git
+[submodule "modules/ssdf"]
+	path = modules/ssdf
+	url = https://github.com/zulianp/ssdf.git
+[submodule "modules/utopia"]
+	path = modules/utopia
+	url = https://github.com/zulianp/utopia

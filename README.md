@@ -11,9 +11,9 @@ git clone --recurse-submodules https://github.com/xsesfsi/xsesfsi.git
 ## Libraries in development
 
 
-- SFEM https://github.com/zulianp/sfem
-- SSDF https://github.com/zulianp/ssdf
-
+- SFEM   https://github.com/zulianp/sfem
+- SSDF   https://github.com/zulianp/ssdf
+- Utopia https://github.com/zulianp/utopia
 
 ## Scientific articles
 

@@ -29,7 +29,7 @@ TBA
 ## Preprints
 
 
-- [1]	Marchi, G., Nelson, A., Kothari, H., Vassilevski, P., Krause, R. and Zulian, P. (2025) ‘Shifted Pen-alty Multigrid Method for Obstacle Problems in Elasticity’, Available at SSRN, 5960259.
+- [1]	Marchi, G., Nelson, A., Kothari, H., Vassilevski, P., Krause, R. and Zulian, P. (2025) ‘Shifted Penalty Multigrid Method for Obstacle Problems in Elasticity’, Available at SSRN, 5960259.
 - [2]	Marchi G., Krause R., and Zulian P.  ‘Comparison of Fully Coupled Immersed Boundary and Domain schemes for Fluid Structure Interaction with Lagrange Multipliers.’
 
 

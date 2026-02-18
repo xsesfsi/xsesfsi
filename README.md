@@ -14,6 +14,8 @@ git clone --recurse-submodules https://github.com/xsesfsi/xsesfsi.git
 - SFEM   https://github.com/zulianp/sfem
 - SSDF   https://github.com/zulianp/ssdf
 - Utopia https://github.com/zulianp/utopia
+- MARS   https://bitbucket.org/zulianp/mars
+
 
 ## Scientific articles
 

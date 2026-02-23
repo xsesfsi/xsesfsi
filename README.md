@@ -10,11 +10,12 @@ git clone --recurse-submodules https://github.com/xsesfsi/xsesfsi.git
 
 ## Libraries in development
 
+- CVFEM/EBVC assembly with Kokkos https://gitlab.com/hslu_ccfnum/assembly_bench
+- MARS      https://bitbucket.org/zulianp/mars
 - OpenAccel https://github.com/CCFNUM/OpenAccel
 - SFEM      https://github.com/zulianp/sfem
 - SSDF      https://github.com/zulianp/ssdf
 - Utopia    https://github.com/zulianp/utopia
-- MARS      https://bitbucket.org/zulianp/mars
 
 ## Scientific articles
 
